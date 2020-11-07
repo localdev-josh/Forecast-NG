@@ -39,6 +39,7 @@ class WeatherBloc extends BlocBase {
 
   Future initialSharedWeatherPage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
+    await prefs.setString("userMail", user.user.email);
     await prefs.setInt("initScreen", 1);
   }
 

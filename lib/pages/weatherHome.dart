@@ -2,6 +2,7 @@ import 'package:bloc_pattern/bloc_pattern.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:weather_interview/blocs/weatherBloc.dart';
 import 'package:weather_interview/models/weatherModel.dart';
 
@@ -14,6 +15,7 @@ class _WeatherHomeState extends State<WeatherHome> {
   final key = new GlobalKey<ScaffoldState>();
   final TextEditingController _searchQuery = new TextEditingController();
   final WeatherBloc _weatherBloc = BlocProvider.getBloc<WeatherBloc>();
+  String userMail = "";
   String username = "";
   String celsius = "";
   bool _miniLoading = false;
@@ -22,7 +24,13 @@ class _WeatherHomeState extends State<WeatherHome> {
   @override
   void initState() {
     super.initState();
-    username = getUsername(_weatherBloc.user.user.email);
+    fetchUsername();
+  }
+
+  Future fetchUsername() async {
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    userMail = await prefs.getString("userMail");
+    username = getUsername(userMail);
   }
 
   static String getUsername(String email) {
