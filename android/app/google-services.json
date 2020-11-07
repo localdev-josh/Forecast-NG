@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798557702855",
+    "firebase_url": "https://forecast-app-4a194.firebaseio.com",
+    "project_id": "forecast-app-4a194",
+    "storage_bucket": "forecast-app-4a194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798557702855:android:16724253bf55572f62cce2",
+        "android_client_info": {
+          "package_name": "com.example.weather_interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798557702855-o0odle7i377pb9uj6fkf3non2d8m1udb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGZdyETSiWNWdwTMy9mFV-e1uV5F5hhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798557702855-o0odle7i377pb9uj6fkf3non2d8m1udb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
