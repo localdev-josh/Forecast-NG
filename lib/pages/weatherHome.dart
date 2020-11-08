@@ -30,7 +30,9 @@ class _WeatherHomeState extends State<WeatherHome> {
   Future fetchUsername() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     userMail = await prefs.getString("userMail");
-    username = getUsername(userMail);
+    setState(() {
+      username = getUsername(userMail);
+    });
   }
 
   static String getUsername(String email) {
