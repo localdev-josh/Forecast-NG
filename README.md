@@ -1,4 +1,4 @@
-# Full weather application with Firebase authentication [![PRs Welcome](https://img.shields.io/twitter/follow/joshcre8tor.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/localdev_.svg?style=social)](https://twitter.com/localdev_)
+# Full weather application with Firebase authentication [![PRs Welcome](https://img.shields.io/twitter/follow/joshcre8tor.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/joshcre8tor.svg?style=social)](https://twitter.com/localdev_)
 
 Flutter representation of a Weather Application.
 
