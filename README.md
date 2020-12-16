@@ -16,7 +16,7 @@ Star⭐ the repo if you like what you see😉
 
 ## 📸 ScreenShots
 
-|<img src="https://i.ibb.co/kHBB5SL/Screenshot-2020-12-16-12-51-57-735-com-example-weather-interview.jpg" width="400">"
+|<img src="https://i.ibb.co/kHBB5SL/Screenshot-2020-12-16-12-51-57-735-com-example-weather-interview.jpg" width="400">
 |<img src="https://i.ibb.co/5YXTDRY/Screenshot-2020-12-16-12-52-25-512-com-example-weather-interview.jpg" width="400">
 |<img src="https://i.ibb.co/1Mfwpb8/Screenshot-2020-12-16-12-52-33-751-com-example-weather-interview.jpg" width="400">
 |<img src="https://i.ibb.co/k2k7RyV/Screenshot-2020-12-16-12-52-58-781-com-example-weather-interview.jpg" width="400">
