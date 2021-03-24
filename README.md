@@ -1,10 +1,10 @@
-# Full weather application with Firebase authentication [![PRs Welcome](https://img.shields.io/twitter/follow/joshcre8tor.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/joshcre8tor.svg?style=social)](https://twitter.com/localdev_)
+# Full weather application with Firebase authentication [![PRs Welcome](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
 
 Flutter representation of a Weather Application.
 
 Star⭐ the repo if you like what you see😉
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/joshcre8tor.svg?style=social)](https://twitter.com/localdev_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
 
 
 ## ✨ Requirements
@@ -22,7 +22,7 @@ Star⭐ the repo if you like what you see😉
 |<img src="https://i.ibb.co/k2k7RyV/Screenshot-2020-12-16-12-52-58-781-com-example-weather-interview.jpg" width="400">
 
 ## 🤓 Author(s)
-**Ajiboye Joshua Oluwaseun** [![Twitter Follow](https://img.shields.io/twitter/follow/joshcre8tor.svg?style=social)](https://twitter.com/localdev_)
+**Ajiboye Joshua Oluwaseun** [![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
 
 
 ## 🔖 LICENCE
