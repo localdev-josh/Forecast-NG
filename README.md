@@ -1,6 +1,6 @@
 # Full weather application with Firebase authentication [![PRs Welcome](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
 
-Flutter representation of a Weather Application.
+Mobile application representation of a Weather Application.
 
 Star⭐ the repo if you like what you see😉
 
